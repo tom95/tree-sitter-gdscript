@@ -1,7 +1,7 @@
 tree-sitter-gdscript
 ==================
 
-GDScript grammar for [tree-sitter][].
+Fork of [PrestonKnopp/tree-sitter-gdscript](https://github.com/PrestonKnopp/tree-sitter-gdscript)'s GDScript grammar for tree-sitter. Carries fixes and updates to the grammar.
 
 ### Todo
 
@@ -36,5 +36,3 @@ GDScript grammar for [tree-sitter][].
   - [X] inheriting class constructor
 - [X] Expression
   - [X] call base class function
-
-[tree-sitter]: https://github.com/tree-sitter/tree-sitter
